@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Rishav's Launcher",
-    "description": "Quick Launch Rishav's Pages",
+    "name": "Harsh's Launcher",
+    "description": "Quick Launch Harsh's Pages",
     "version": "1.0.0",
     "icons" : {"128": "icon_128.png"},
     "browser_action":{
